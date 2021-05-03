@@ -41,7 +41,7 @@
 					"@type": "sc:Canvas",
 					"label": "Static Image",
                     "thumbnail": {
-                         "@id": "http://dl.antenati.san.beniculturali.it/gallery2/main.php?g2_view=core.DownloadItem&g2_itemId=252899373",
+                         "@id": "http://dl.antenati.san.beniculturali.it/gallery2/main.php?g2_view=core.DownloadItem&g2_itemId=252899373.jpg",
                          "width": 404,
                          "height": 548,
                          "service": {
@@ -60,7 +60,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://dl.antenati.san.beniculturali.it/gallery2/main.php?g2_view=core.DownloadItem&g2_itemId=252899373",
+								"@id": "http://dl.antenati.san.beniculturali.it/gallery2/main.php?g2_view=core.DownloadItem&g2_itemId=2528993.jpg73",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"height": 4035,
