@@ -3,7 +3,7 @@
 	"@id": "http://962b3764-d27d-41ff-b833-045088bd6572",
 	"@type": "sc:Manifest",
     "thumbnail": {
-         "@id": "https://fixtures.iiif.io/images/Glen/photos/gottingen.jpg",
+         "@id": "https://i.imgur.com/zsEuf0C.jpg",
          "width": 500,
          "height": 600,
          "service": {
@@ -14,7 +14,7 @@
             ]
          }
     },
-	"label": "Glen's fantastic November Manifest",
+	"label": "Test showing records",
     "metadata": [],
 	"description": [
 		{
@@ -41,7 +41,7 @@
 					"@type": "sc:Canvas",
 					"label": "Static Image",
                     "thumbnail": {
-                         "@id": "https://fixtures.iiif.io/images/Glen/photos/gottingen.jpg",
+                         "@id": "https://i.imgur.com/zsEuf0C.jpg",
                          "width": 500,
                          "height": 600,
                          "service": {
@@ -60,7 +60,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://fixtures.iiif.io/images/Glen/photos/gottingen.jpg",
+								"@id": "https://i.imgur.com/zsEuf0C.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"height": 3024,
