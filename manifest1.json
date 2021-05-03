@@ -4,8 +4,8 @@
 	"@type": "sc:Manifest",
     "thumbnail": {
          "@id": "https://i.imgur.com/zsEuf0C.jpg",
-         "width": 500,
-         "height": 600,
+         "width": 374,
+         "height": 534,
          "service": {
             "@context": "http://iiif.io/api/image/2/context.json",
             "@id": "https://iiif.archivelab.org/iiif/img-8664_202009",
@@ -42,8 +42,8 @@
 					"label": "Static Image",
                     "thumbnail": {
                          "@id": "https://i.imgur.com/zsEuf0C.jpg",
-                         "width": 500,
-                         "height": 600,
+                         "width": 374,
+                         "height": 534,
                          "service": {
                             "@context": "http://iiif.io/api/image/2/context.json",
                             "@id": "https://iiif.archivelab.org/iiif/img-8664_202009",
@@ -52,8 +52,8 @@
                             ]
                          }
                     },
-					"height": 3024,
-					"width": 4032,
+					"height": 3741,
+					"width": 5336,
 					"images": [
 						{
 							"@id": "http://3e071cbb-e37e-49c9-8b60-4d996885f5e81",
@@ -63,8 +63,8 @@
 								"@id": "https://i.imgur.com/zsEuf0C.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"height": 3024,
-								"width": 4032
+								"height": 3741,
+								"width": 5336
 							},
 							"on": "http://a292a51f-5975-497f-b9a4-8a962e380762-2"
 						}
